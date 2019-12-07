@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+    background-color: #9149b8;
+  }
+
+b {
+    color :white;
+}
+
+.content {
+    text-align: center;
+    color: white;
+}
+
+.title {
+    font-size: 84px;
+    color: white;
+}
+
+a:hover {
+    background-color: blueviolet;
+    color: white;
+}
+
+a {
+    color: yellow;
+}
+
+.card-header {
+    background-color: #b97bdb;
+    color: white;
+}
+
+.card-footer {
+    background-color: #b97bdb;
+    color: white;
+}
+
+.card-body {
+    background-color: #e2b1fc;
+    color: white;
+}
+
+.black {
+    color: black;
+}
